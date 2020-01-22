@@ -11,9 +11,7 @@ public class FirstExample
         for(int i = 1; i <= 10; i++)
             System.out.println("Pritesh Patel");
 
-        int x = 100;
-        int y = 800;
-        int c = 200;
+        //Sample Commit - 1
          
     }
 }
