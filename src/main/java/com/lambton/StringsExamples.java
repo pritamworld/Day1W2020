@@ -77,6 +77,15 @@ public class StringsExamples
 
         s1.length();
 
+        int a = 100;
+        int b = 200;
+        int c = a + b;
+        String str = String.format("%d + %d = %d", a, b, c);
+        System.out.println(str);
+
+        String happyString = String.join(" ","Welcome","to","Lambton,","Toronto","Campus");
+        System.out.println(happyString);
+
 
 
 
